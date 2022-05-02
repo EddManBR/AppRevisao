@@ -45,7 +45,6 @@
 
     <TextView
         android:id="@+id/comparration"
-        android:text=""
 
         android:textSize="20sp"
         android:layout_gravity="center_horizontal"
