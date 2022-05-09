@@ -17,6 +17,7 @@
 
     <EditText
         android:id="@+id/number1"
+        android:inputType="number"
         android:hint="Insert your first number"
         android:text=""
 
@@ -27,6 +28,7 @@
 
     <EditText
         android:id="@+id/number2"
+        android:inputType="number"
         android:hint="Insert your second number"
         android:text=""
 
